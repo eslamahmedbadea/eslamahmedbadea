@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi There!<br><br>I"m passionate Front-End Developer with a graphic design background, focused on<br>building clean, responsive, and user-friendly web interfaces.<br><br>I work with HTML, CSS, JavaScript, and Bootstrap, and use Photoshop and<br>Illustrator to turn ideas into real, functional designs.<br><br>Always learning, improving my skills, and building projects to grow as a developer.<br>
+👋 Hi There!<br><br>I"m passionate Front-End Developer with a graphic design background, focused on<br>building clean, responsive, and user-friendly web interfaces.<br><br>I work with HTML, CSS, JavaScript, and Bootstrap, to turn ideas into real, functional designs.<br><br>Always learning, improving my skills, and building projects to grow as a developer.<br>
 
 
 ## 🌐 Socials:
