@@ -1,5 +1,9 @@
 # 💫 About Me:
-👋 Hi There!<br><br>I"m passionate Junior Front-End Developer with a graphic design background, focused on<br>building clean, responsive, and user-friendly web interfaces.<br><br>I work with HTML, CSS, JavaScript, and Bootstrap, to turn ideas into real, functional designs.<br><br>Always learning, improving my skills, and building projects to grow as a developer.<br>
+👋 Hi there!<br><br>
+I'm a passionate Junior Front-End Developer with a strong background in graphic design, combining creativity with clean, functional code to build modern web experiences.<br><br>
+I specialize in crafting responsive and user-friendly interfaces using HTML, CSS, JavaScript, along with modern technologies like React.js and Tailwind CSS. I focus on writing scalable code and delivering smooth, visually appealing user experiences across all devices.<br><br>
+With an eye for design and a developer mindset, I bridge the gap between UI and development to turn ideas into real, high-quality products.<br><br>
+Always learning, improving my skills, and building impactful projects to grow as a developer. 🚀
 
 
 ## 🌐 Socials:
